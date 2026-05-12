@@ -9,12 +9,12 @@ Aspiring applied economist specializing in food systems, international trade, an
 - Languages: Polish (native), English (IELTS 8.0), Korean (TOPIK 2), Chinese (HSK 3)
 
 ### Currently
-- GKS scholar preparing for Master's in Food & Resource Economics at Korea University
 - Transitioning from R to Python for econometric analysis
 - Building a portfolio of small empirical projects on EU-Asia economic topics
+- Currently preparing for a Chinese language year in Beijing 
 
 ### Research Interests
-- Trade policy & FTAs (especially EU-Korea)
+- Trade policy & FTAs (especially EU-China/Korea)
 - Food price analysis and agricultural policy
 - Regional disparities and structural adjustment
 - Causal inference and policy evaluation
