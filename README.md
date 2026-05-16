@@ -1,27 +1,44 @@
-# Hi there, I'm Patrycja 👋
+# Hi, I’m Patrycja 👋
 
-Aspiring applied economist specializing in food systems, international trade, and regional development.
+Aspiring economic and policy researcher focused on East Asia, international trade, food systems, and regional development.
 
-### Background
-- BSc Finance and Investment (First Class Honours, United Kingdom)
-- Study exchange at Hankuk University of Foreign Studies (HUFS, South Korea)
-- From Poland | Currently based in Seoul
-- Languages: Polish (native), English (IELTS 8.0), Korean (TOPIK 2), Chinese (HSK 3)
+I hold a First Class Honours degree in Finance and Investment from the United Kingdom and completed a study exchange at Hankuk University of Foreign Studies (HUFS) in South Korea.
 
-### Currently
-- Transitioning from R to Python for econometric analysis
-- Building a portfolio of small empirical projects on EU-Asia economic topics
-- Currently preparing for a Chinese language year in Beijing 
+My current work focuses on building small research and policy projects related to:
 
-### Research Interests
-- Trade policy & FTAs (especially EU-China/Korea)
-- Food price analysis and agricultural policy
-- Regional disparities and structural adjustment
-- Causal inference and policy evaluation
+* EU–Asia trade relations,
+* food and agricultural policy,
+* migration and regional inequality,
+* and AI/economic governance in East Asia.
 
-### Tools & Skills
-Python (in progress) • R • Econometrics • Data visualization
+I work primarily with R and am currently transitioning toward Python for econometric and data analysis applications.
 
-**Open to research assistant positions and academic collaborations!**
+## Research Interests
+
+* Trade policy & FTAs
+* Food systems and agricultural economics
+* Regional development and structural inequality
+* East Asian political economy
+* Applied econometrics and policy evaluation
+
+## Tools & Skills
+
+Python (learning) • R • Econometrics • Policy analysis • Data visualization • Research writing
+
+## Currently
+
+* Based in Seoul 🇰🇷
+* Preparing for a Chinese language year in Beijing 🇨🇳
+
+## Languages
+
+* Polish (native)
+* English (IELTS 8.0)
+* Korean (TOPIK 2)
+* Chinese (HSK 3)
+
+## Open To
+
+Research assistant opportunities, internships, and academic collaborations.
 
 Feel free to reach out: [E-mail](patrycja.pyzikiewicz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/patrycja-pyzikiewicz-935016208/)
